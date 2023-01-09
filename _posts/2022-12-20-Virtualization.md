@@ -1,7 +1,7 @@
 ---
 title: Virtualization
 author: cotes
-date: 2019-08-09 20:55:00 +0800
+date: 2022-12-23 20:55:00 +0800
 categories: [Blogging, Tutorial]
 tags: [getting started]
 pin: true
