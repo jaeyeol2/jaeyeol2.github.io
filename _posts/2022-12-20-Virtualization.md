@@ -1,9 +1,9 @@
 ---
 title: Virtualization
-author: cotes
+author: J
 date: 2022-12-23 20:55:00 +0800
-categories: [Blogging, Tutorial]
-tags: [getting started]
+categories: [가상화]
+tags: [가상화]
 pin: true
 ---
 

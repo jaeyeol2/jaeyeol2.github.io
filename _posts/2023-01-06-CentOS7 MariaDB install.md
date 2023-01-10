@@ -1,9 +1,9 @@
 ---
 title: CentOS7 MariaDB install
-author: cotes
+author: J
 date: 2023-01-06 20:55:00 +0800
-categories: [Blogging, Tutorial]
-tags: [getting started]
+categories: [Linux]
+tags: [centos7, mariadb]
 pin: true
 ---
 
