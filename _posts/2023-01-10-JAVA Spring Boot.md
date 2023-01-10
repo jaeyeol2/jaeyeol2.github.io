@@ -63,4 +63,4 @@ src / main / java / com / test / test 경로 아래에 있는 TestApplicationjav
 
 ## 확인
 
-- ( http://localhost:8080/ ) 주소로 웹사이트로 접속해보면 기존에 작성했던 index.html 파일이 웹브라우저로 열리는걸 확인할 수 있다.
+- ( <http://localhost:8080/> ) 주소로 웹사이트로 접속해보면 기존에 작성했던 index.html 파일이 웹브라우저로 열리는걸 확인할 수 있다.

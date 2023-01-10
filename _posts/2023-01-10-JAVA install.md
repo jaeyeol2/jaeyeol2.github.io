@@ -15,7 +15,7 @@ pin: true
 
 먼저 자바를 설치하려면 JDK파일을 다운 받아야한다.
 
-링크 : https://www.oracle.com/java/technologies/downloads/
+링크 : <https://www.oracle.com/java/technologies/downloads/>
 
 zip파일로 다운받아서 C: 밑에 압축 해제한다.
 
