@@ -7,11 +7,15 @@ tags: [java spring boot]
 pin: true
 ---
 
-# JAVA Spring Boot
+# JAVA Spring Boot 
 
-## VS code 환경에서 진행
+
+> JAVA Spring : 자바 기반의 웹 어플리케이션을 만들 수 있는 프레임워크   
+> JAVA Spring Boot : 스프링(Spring)을 더 쉽게 이용하기 위한 도구
 
 ## 1. 설치하기
+
+###  ` ' VS code 환경에서 진행'  `
 
 ![img](/assets/img/favicons/js01.png)
 ![img](/assets/img/favicons/js02.png)
