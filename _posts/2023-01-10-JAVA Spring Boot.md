@@ -3,7 +3,7 @@ title: JAVA Spring Boot 설치
 author: J
 date: 2023-01-10 13:15:00 +0800
 categories: [JAVA]
-tags: [java spring boot]
+tags: [java, spring boot]
 pin: true
 ---
 
