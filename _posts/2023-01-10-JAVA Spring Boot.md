@@ -15,7 +15,7 @@ pin: true
 
 ## 1. 설치하기
 
-###  ` ' VS code 환경에서 진행'  `
+### ' VS code 환경에서 진행 '
 
 ![img](/assets/img/favicons/js01.png)
 ![img](/assets/img/favicons/js02.png)
