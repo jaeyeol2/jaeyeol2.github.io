@@ -25,7 +25,7 @@ gpgcheck = 1
 ```
 
 ```
-yum install mariadb mariadb-server	마리아DB설치
+yum install -y mariadb mariadb-server	마리아DB설치
 
 rpm -qa | grep -i mariadb	설치확인
 
