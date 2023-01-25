@@ -199,4 +199,3 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-plugins: ['jekyll-paginate', 'jekyll-sitemap', 'jekyll-include-cache', 'jekyll-gist']
