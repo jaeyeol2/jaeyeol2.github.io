@@ -1,5 +1,5 @@
 ---
-title: React
+title: yarn_error
 author: J
 date: 2023-01-25 13:15:00 +0800
 categories: [React, Yarn]
