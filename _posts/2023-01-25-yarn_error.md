@@ -12,7 +12,7 @@ pin: true
 ### 프로젝트로 React를 사용중에 yarn 명령어 이슈발생
 
 ```
-yarn 명령어는 npm 명령어와 비슷한 느낌이다. 무언가를 실행시킬때 사용하는 명령어
+yarn 명령어는 npm 명령어와 비슷한 느낌이다. node.js 기반의 무언가를 실행시킬때 사용하는 명령어 
 
  ex) yarn start, npm start, yarn install, npm install 
 
